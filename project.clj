@@ -5,6 +5,6 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.jsoup/jsoup "1.9.2"]
-                 [clj-time "0.12.0"]
+                 [clj-time "0.14.4"]
                  [im.chit/cronj "1.4.4"]]
   :main poketmon.core)
