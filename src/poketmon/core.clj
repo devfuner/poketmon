@@ -39,7 +39,7 @@
 ;;  (start! cj))
 
 
-(copy-uri-to-file (t/date-time 2018 4 23))
+(copy-uri-to-file (t/date-time 2018 7 20))
 
 ;; (def take-cnt (t/in-days (t/interval (t/date-time 2016 1 1) (t/now))))
 
